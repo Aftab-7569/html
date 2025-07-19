@@ -1,0 +1,25 @@
+.outer_box{
+    height: 800px;
+    width: 800px;
+    border: solid 4px black;
+    margin: auto;
+
+}
+.row{
+    height: 100px;
+    width: 800px;
+    background-color: green;
+
+}
+.black{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float: left;
+}
+.white{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    float: left;
+}
