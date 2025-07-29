@@ -1,0 +1,107 @@
+.board{
+    height: 606px;
+    width: 606px;
+    background-color: rgb(132,133,133);
+    margin: auto;
+    border:solid 1px black;
+}
+
+.row1{width: 606px;
+    height: 240px;
+    background-color: rgb(179,133,133);
+    
+}
+
+.row{
+    width: 606px;
+    height: 122px;
+    background-color: rgb(179,133,133);
+    float: left;
+}
+.row2{
+    width: 240px;
+    height: 120px;
+    background-color: pink;
+    border: black;
+    float: left;
+}
+.row3{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(255,255,255);
+    border:solid 1px black;
+    float: left;
+}
+.col{
+    width: 120px;
+    height: 240px;
+    background-color:greenyellow ;
+    float: left;
+    border: solid 1px black;
+}
+.cell{
+    height: 38px;
+    width: 38px;
+    background-color: white;
+    border: solid 1px;
+    float: left;
+    text-align: center;
+    font-size: 25px;
+}
+.box{
+    height: 240px;
+    width: 240px;
+    border: solid 1px black;
+    float: left;
+}
+.whitebox{
+    height: 160px;
+    width: 160px;
+    background-color: white;
+    border: solid 1px black;
+    margin: 35px auto;
+}
+.whitebox .circle{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin: 18px;
+    border: solid 1px black;
+    font-size: 32px;
+    text-align: center;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.greenbox{
+    height: 240px;
+    width: 240px;
+    background-color: green;
+    border: solid 1px black;
+    float: left;
+}
+.bluebox{
+    height: 240px;
+    width: 240px;
+    background-color: blue;
+    border: solid 1px black;
+}
+.yellowbox{
+    height: 240px;
+    width: 240px;
+    background: yellow;
+    border: solid 1px black;
+}
+.triangle{
+    
+}

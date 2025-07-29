@@ -14,12 +14,16 @@
 .black{
     height: 100px;
     width: 100px;
-    background-color: black;
+    background-color: rgb(160, 155, 155);
     float: left;
+    text-align: center;
+    font-size: 70px;
 }
 .white{
     height: 100px;
     width: 100px;
     background-color: white;
     float: left;
+    text-align: center;
+    font-size: 70px;
 }
