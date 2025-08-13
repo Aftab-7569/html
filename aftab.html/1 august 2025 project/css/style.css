@@ -1,0 +1,156 @@
+.header{
+    width: 1200px;
+    height: 100px;
+    margin: auto;
+    background-color: rgb(33, 140, 182);
+    border-radius: 50px;
+}
+
+.block1{
+    width: 100px;
+    height: 100px;
+    float: left;
+    text-align: center; 
+    padding: 10px;
+}
+
+.block2{
+    width: 350px;
+    height: px;
+    border: solid 0px #111213;
+    float: left;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    border-radius: 10px;
+    font-style: italic;
+    padding: 25px;
+}
+   
+
+
+.block3{
+    width: 500px;
+    height: px;
+    border: solid 0px black;
+    float: left;
+    padding:25px;
+    font-size: 10px;
+    padding-left: 0px;
+}
+
+.logo_text1{
+    color: #f7f5f0;
+}
+
+.nav{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.menu_item{
+    float: left;
+    border: solid 1px black;
+    padding: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    margin-left: 10px;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #e9ecf17a;
+
+
+}
+.block4{
+    width: 50px;
+    height: 50px;
+    float: left;
+    padding-right: 40px;
+    border: solid 0px black;
+    padding-top: 20px;
+}
+.A1{
+    width: 1200px;
+    height: 400px;
+    background-color: rgb(241, 237, 237);
+    border: solid 0px black;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color:#80BAD2;
+}
+.A2{
+    width:356px;
+    height:340px;
+    border-radius: 20px;
+    float: left;
+    padding-top: 60px;
+    padding-left: 50px;
+
+}
+.a3{
+    width: 790px;
+    height: 400px;
+    border-radius: 20px;
+    float: left;
+    font-size: 35px;
+    text-align: center;
+    text-shadow: 20px;
+}
+.a4{
+    font-size: 22px;
+}
+.a5{
+    font-size: 28px;
+    color: black;
+    text-align: left;
+}
+.content{
+    font-size: 25px;
+    color: black;
+    float: left;
+    margin-right: 50px;
+}
+.btn{
+    font-size: 20px;
+    background-color: #f7f5f0;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.a6{
+   width: 1200px;
+   height: 400px;
+   font-size: 25px;
+   color: black;
+   margin: auto;
+   margin-top: 20PX;
+}
+.product_name{
+    font-size: 20px;
+    font-weight: bold;
+}
+.product_description{
+    font-size: 16px;
+    color: #555;
+}
+.product_price{
+    font-size: 18px;
+    color: #f00;
+}
+.product_btn{
+    background-color: #008cba;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
